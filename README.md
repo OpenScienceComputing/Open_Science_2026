@@ -1,13 +1,7 @@
-# Open_Science_2026
-Open Science in Practice for Coastal Ocean Data Analysis and Visualization (April 20-24, 2026)
+# Open Science in Practice for Coastal Ocean Data Analysis and Visualization School 2026
+Bertinoro, Italy (April 20-24, 2026)
 
 Supported by [CMCC](https://www.cmcc.it/), [MAGICA](https://magica-project.eu/) and [FERS](https://www.fersschool.it/), with funding from the EU. 
-
-# Open Science in Practice for Coastal Ocean Data Analysis and Visualization School 2026
-
-## Proposed Agenda
-
-# Open Science in Practice for Coastal Ocean Data Analysis and Visualization School 2026
 
 ## Proposed Agenda
 
